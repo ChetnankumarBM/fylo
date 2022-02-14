@@ -1,1 +1,230 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
+body {
+    font-family: sans-serif;
+}
+
+.nav {
+    display: flex;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    gap: 53rem;
+    text-align: center;
+}
+
+.end {
+    display: flex;
+    gap: 2.4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2rem;
+}
+
+.main {
+    padding-left: 3rem;
+    padding-top: 11rem;
+}
+
+.data1 h1 {
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+}
+
+.data1 h6 {
+    font-size: 1.2rem;
+    padding-bottom: 2rem;
+    line-height: 1.7rem;
+}
+
+input {
+    width: 20rem;
+    height: 3rem;
+    padding-left: 0.5rem;
+}
+
+.lg {
+
+    width: 12rem;
+    height: 3rem;
+    color: white;
+    background-color: blue;
+}
+
+.img1 {
+    position: absolute;
+    top: 12rem;
+    left: 45rem;
+}
+
+.img21 {
+    padding-top: 14rem;
+    height: 50rem;
+}
+
+.box2 {
+    background-color: rgb(246, 244, 248);
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+}
+
+.box1 {
+    padding-left: 3rem;
+}
+
+.img33 img {
+    border-radius: 50%;
+    width: 30%;
+    padding-right: 0.5rem;
+}
+
+.img33 {
+    display: flex;
+    padding-top: 1rem;
+    align-items: center;
+}
+
+div {
+    font-size: 0.8rem;
+    padding-left: 0.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box2 h5 {
+    font-size: 0.8rem;
+}
+
+
+.box1 {
+    position: absolute;
+    top: 54rem;
+}
+
+.box1 h2 {
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+
+}
+
+.box1 h6 {
+
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    padding-bottom: 1.5rem;
+
+}
+
+.aa {
+    color: rgb(18, 68, 18);
+    font-size: 1.2rem;
+
+}
+
+.box2 {
+    position: absolute;
+    top: 20rem;
+
+
+}
+
+.main2 {
+    position: absolute;
+    top: 60rem;
+    left: 50rem;
+}
+
+.main1 {
+    padding-bottom: 8rem;
+}
+
+.header {
+    background-color: rgb(98, 24, 167);
+
+}
+
+.data9 {
+    padding-left: 3rem;
+    padding-top: 4rem;
+}
+
+.data9 h3 {
+    color: white;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+
+
+}
+
+.data9 h4 {
+
+    color: rgb(228, 222, 222);
+    font-size: 1rem;
+    line-height: 1.5rem;
+
+}
+
+.Binput {
+    position: absolute;
+    top: 100rem;
+    left: 50rem;
+}
+
+.Binput input {
+    width: 28rem;
+}
+
+.click {
+    padding-top: 2rem;
+}
+
+.b {
+    width: 15rem;
+    height: 3rem;
+    color: white;
+    background-color: blue;
+}
+
+.header1 {
+    background-color: rgb(9, 9, 51);
+
+}
+
+ul {}
+
+li {
+    text-decoration: none;
+}
+
+.header1 {
+    display: flex;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    gap: 15rem;
+    color: white;
+    font-size: 1.4rem;
+    align-items: center;
+}
+
+.bottom4 {
+    display: flex;
+    gap: 2rem;
+}
+
+.bottom1 li {
+    align-items: center;
+    display: flex;
+}
+
+li {
+    padding-top: 1.5rem;
+}
+
+.bottom2 li {
+    display: flex;
+}
+
+.bottom3 li {
+    display: flex;
+}
